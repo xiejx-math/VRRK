@@ -1,0 +1,17 @@
+# Generated experiment output
+results/
+
+# Downloaded SuiteSparse archives and matrices
+data/suitesparse/
+
+# MATLAB and operating-system artifacts
+*.asv
+*.m~
+*.autosave
+*.mat
+.DS_Store
+Thumbs.db
+
+# Editor configuration
+.vscode/
+.idea/
